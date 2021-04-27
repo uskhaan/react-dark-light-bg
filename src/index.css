@@ -1,0 +1,12 @@
+html,body,#root,.room{
+  height: 100%;
+  margin: 0;
+}
+.lightMode{
+  background-color: white;
+  color: black;
+}
+.darkMode{
+  background-color: rgb(29, 6, 6);
+  color: white;
+}
